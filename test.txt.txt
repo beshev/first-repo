@@ -1,2 +1,7 @@
-My first repo from TortoiseGit.
+Make additional changes.
+
+I made this changes from TortoiseGit.
+
+Learning how to use TortoiseGit and GitBash.
+
 
