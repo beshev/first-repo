@@ -5,3 +5,7 @@ I made this changes from TortoiseGit.
 Learning how to use TortoiseGit and GitBash.
 
 
+My first repo from GitBash.
+
+
+My first repo from TortoiseGit.
